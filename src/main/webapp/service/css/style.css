@@ -1,0 +1,23 @@
+
+a:link { color: red; text-decoration: none;}
+a:visited { color: black; text-decoration: none;}
+a:hover { color: blue; text-decoration: none;}
+
+body{
+    padding: 70px 0px 20px 0px;
+}
+
+#test {
+    width: 500px;
+    height: 800px;
+}
+
+.datepicker-sys{
+    width:49%;
+    float:left;
+}
+
+input.form-control{
+    margin-bottom:5px;
+}
+
